@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Module-Three-Tier apply flow 
 ```
@@ -21,3 +22,6 @@ terraform apply -target=module.asg-backend
 terraform apply -target=module.asg-frontend
 
 ```
+=======
+# Module-Three-Tier
+>>>>>>> 99633951b11809d10859552fe5cbc86fcd52572c
